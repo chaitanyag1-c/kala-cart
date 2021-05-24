@@ -9,8 +9,8 @@ const Store = () => {
         <Layout title="Store"  description="This is the Store page" >
             <div >
                 <div className="text-center mt-5" id="login-cont">
-                    <h1>Buy Meals</h1>
-                    <p>Healthy Affordable Meals</p>
+                    <h1>Buy Clothes</h1>
+                    <p> Affordable CLothes</p>
                 </div>
                 <ProductsGrid/>
             </div>
