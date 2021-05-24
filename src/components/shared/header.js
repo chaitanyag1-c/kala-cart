@@ -10,7 +10,7 @@ const Header = () => {
 
     return ( 
         <header className={styles.header}>
-        <a href="http://thedailynutrition.co/"> The Daily Nutrition</a>
+        <a href="#"> LIST N BUY</a>
             <Link to='/'>Store</Link>
             <Link to='/cart'> <CartIcon/> Cart ({itemCount})</Link>
         </header>

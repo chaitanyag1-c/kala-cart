@@ -4,7 +4,7 @@ import styles from './footer.module.scss';
 const Footer = () => {
     return ( 
         <footer className={`${styles.footer}  mt-5 p-3`}>
-            2021 &copy; The Daily Nutrition
+            2021 &copy; List N Buy
         </footer>
      );
 }
